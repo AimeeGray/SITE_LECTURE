@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400|Poppins:400');
+
+html {font-size: 85%;} /*16px*/
+
+
+title {
+  font-family: 'ITC Avant Garde Gothic Pro', sans-serif;
+}
+
+
+h1, h2, h3, h4, h5 {
+  font-family: 'ITC Avant Garde Gothic Pro', sans-serif;
+  font-weight: 400;
+  line-height: 1;
+}
+
+p{
+  font-family: 'ITC Avant Garde Gothic Pro', sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+
+h6{margin-bottom: 1.15rem;
+  font-family: 'LeMondeLivreStd', sans-serif;
+font-weight: normal;
+line-height: .0001;}
+
+h2 {font-size: 3.998em;}
+
+h3 {font-size: 2.827em;}
+
+h4 {font-size: 1.999em;}
+
+h5 {font-size: 1.414em;}
+
+small, .text_small {font-size: 0.707em;}
+
+.has-dropcap: first-letter{
+  font-family: 'ITC Avant Garde Gothic Pro', sans-serif;
+float: left ;
+font-size: 15em;
+line-height: 0.65;
+margin: 0.1em 0.1em 0.2em 0 ;
+padding: 0.1em;
+}

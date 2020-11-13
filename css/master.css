@@ -1,0 +1,549 @@
+body {
+	background-image: url("../images/mainBackground.png");
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+
+.allThePage{
+	width: 1024px;
+	margin: auto;
+	background-color: white;
+}
+
+#page1 {
+	background-color: #fffcf8;
+	margin: auto;
+}
+
+#part1 {
+	display: inline-block;
+}
+
+#moon, #firstLetter, #firstLine {
+	display: inline-block;
+}
+
+#moon {
+	width: 140px;
+	margin-left: 280px;
+}
+
+#firstLetter {
+    font-family: 'ITC Avant Garde Gothic Pro', sans-serif;
+    font-size: 140px;
+    color: #111111;
+		margin-right: -40px;
+}
+
+#part2 {
+	display: inline-block;
+	padding-left: 160px;
+margin-top: -60px;}
+
+#autorName {
+  	font-family: 'ITC Avant Garde Gothic Pro';
+  	text-decoration: underline;
+  	font-size: 24px;
+	transform: rotate(-90deg);
+	display: inline-block;
+}
+
+#mainTitle {
+	display: inline-block
+}
+
+#firstLine, #secondLine, #thirdLine, #fourthLine, #fifthLine {
+    font-family: 'LeMondeLivreStd';
+    font-size: 37px;
+    color: #3d3d3d;
+	text-align: left;
+}
+
+#thirdLine {
+	margin-left: 40px;
+}
+
+#fifthLine {
+	margin-left: 40px;
+}
+
+#evil {
+	width: 54px;
+}
+
+#part3 {
+	margin-right: auto;
+	margin-left: auto;
+    width: 140px;
+	display: block;
+}
+
+#part4 {
+    font-family:'LeMondeLivreStd';
+	font-style: italic;
+    font-size: 16px;
+    text-align: center;
+    color: #111111;
+	width: 32Opx;
+}
+
+#part5 {
+	display: inline-block;
+	margin-left: 56px;
+	margin-top: 104px;
+}
+
+#girlbook1 {
+	width: 310px;
+}
+
+#paragraph1 {
+    font-size: 12.5px;
+    line-height: 1.3;
+    color: #111111;
+    width: 600px;
+    text-align: left;
+	margin-left: 40px;
+	display: inline-block;
+}
+
+#part6 {
+	display: inline-block;
+	margin-left: 56px;
+}
+
+#paragraph2 {
+	font-size: 12.5px;
+	line-height: 1.3;
+    color: #111111;
+    text-align: left;
+	display: inline-block;
+}
+
+#flocon {
+	width: 150px;
+	display: inline-block;
+	padding-left: 240px;
+}
+
+#part7 {
+	width: 345px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 50px;
+}
+
+#part8 {
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: #111111;
+	text-align: center;
+	margin-top: 56px;
+	padding-bottom: 116px;
+	margin: auto;
+}
+
+#page2 {
+	margin: auto;
+}
+
+#part9 {
+    width: 100%;
+	background-color: #FEFEFE;
+	padding-top: 80px;
+}
+
+#paragraph3 {
+	font-size: 12.5px;
+	line-height: 1.3;
+    color: #111111;
+    text-align: right;
+    display: inline-block;
+	margin-left: 56px;
+}
+
+#fille2 {
+	width: 310px;
+ 	display: inline-block;
+	margin-left: 88px;
+}
+
+#part10 {
+	width: 100%;
+	background-color: #FEFEFE;
+	padding-top: 80px;
+}
+
+#flocon2 {
+    width: 150px;
+    display: inline-block;
+	margin-left: 88px;
+}
+
+#paragraph4 {
+	font-size: 12.5px;
+	line-height: 1.3;
+    color: #111111;
+    text-align: center;
+    display: inline-block;
+	margin-left: 80px;
+	margin-bottom: 80px;
+}
+
+#part11 {
+	font-size: 12.5px;
+	line-height: 1.3;
+    color: #111111;
+    text-align: left;
+    padding-top: 56px;
+    padding-left: 56px;
+    padding-bottom: 56px;
+    background-image: url("../images/Aquarelle_bleue copie.png");
+    background-size: cover;
+    background-position-y: 50px;
+    margin: auto;
+
+}
+
+#part12 {
+	background-image: url("../images/Aquarelle_bleue copie.png");
+    background-size: cover;
+    background-position-y: 411px;
+    margin: auto;
+}
+
+#cloud {
+	width: 240px;
+	margin-left: 160px;
+}
+
+#flocon3 {
+	width: 400px;
+	padding-left: 104px;
+    margin-bottom: 60px;
+}
+
+#part13 {
+	background-color: 	#87CEFA;
+	background-size:cover;
+	background-position-y: 1200px;
+
+}
+
+#paragraph5 {
+	font-size: 12.5px;
+	line-height: 1.3;
+ 	color: #FFFFF0;
+  	text-align: right;
+padding-top: 100px;
+	padding-right: 56px;
+
+}
+
+#souffle {
+	width: 180px;
+	padding-left: 440px;
+}
+
+#paragraph6 {
+	font-size: 12.5px;
+	line-height: 1.3;
+ 	color: #F8F8FF;
+	margin-left: 56px;
+	padding-bottom: 56px;
+	margin-bottom: auto;
+}
+
+#part14 {
+	margin: auto;
+	background-image: url("../images/Bleu_et_or.png");
+	background-size: cover;
+	padding-top: 300px;
+	text-align: center;
+	font-size: 12.5px;
+	line-height: 1.3;
+ 	color: #111111;
+	padding-bottom: 56px;
+}
+
+#part15 {
+	padding-left: 450px;
+	background-color: white;
+	width: 15%;
+
+}
+
+#part16 {
+	background-image: url("../images/VIOLET_DORE.png");
+	background-size: contain;
+	text-align: center;
+	font-size: 12.5px;
+	line-height: 1.3;
+ 	color: #111111;
+	padding-top: 56px;
+    height: 680px;
+    background-position-y: 299px;
+    background-repeat: no-repeat;
+}
+
+#page4 {
+	background-image: url("../images/ESPACE.jpg");
+	background-size: cover;
+	margin: auto;
+}
+
+#part17 {
+	display: inline-block;
+	margin-left: 56px;
+	margin-top: 160px;
+    margin-left: 56px;
+}
+
+#paragraph7 {
+	text-align: right;
+	font-size: 12px;
+	line-height: 1.3;
+	display: inline-block;
+	color: white;
+	padding-right: 50px;
+}
+
+#whiteMoon {
+	width: 180px;
+	display: inline-block;
+}
+
+#part18 {
+	display: inline-block;
+	margin-left: 104px;
+    margin-top: 56px;
+}
+
+#whiteSun {
+	width: 300px;
+	display: inline-block;
+}
+
+#paragraph8 {
+	text-align: left;
+	font-size: 12.5px;
+	line-height: 1.3;
+	display: inline-block;
+	color: white;
+	width: 600px;
+
+}
+
+#part19 {
+	text-align: center;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	margin: 56px;
+}
+
+#part20 {
+	display: inline-block;
+}
+
+#paragraph9 {
+	text-align: right;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	display: inline-block;
+	width: 600px;
+	margin-left: 56px;
+	padding-left: 10px;
+}
+
+#flocon4 {
+	width: 200px;
+	display: inline-block;
+}
+
+#part21{
+	width: 500px;
+	margin-left: 200px;
+	margin-left: 200px;
+	padding-left: 100px;
+}
+
+#part22 {
+	text-align: center;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	width: 600px;
+	margin-left: 200px;
+	padding-bottom: 80px;
+}
+
+#page5 {
+	background-image: url("../images/NUIT_1.jpg");
+	background-size: cover;
+}
+
+#part23 {
+	display: inline-block;
+	padding-top: 56px;
+}
+
+#whiteWoman {
+	width: 360px;
+	display: inline-block;
+}
+
+#paragraph10 {
+	text-align: center;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	width: 600px;
+	display: inline-block;
+}
+
+#part24 {
+	width: 300px;
+	padding-left: 360px;
+}
+
+#part25 {
+	text-align: center;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+  	border: solid 1px #979797;
+  	background-color: rgba(255, 255, 255, 0.36);
+	padding: 60px;
+}
+
+#part26 {
+	text-align: center;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	border: solid 1px #979797;
+  	background-color: rgba(255, 255, 255, 0.36);
+	width: 600px;
+	padding: 40px;
+    margin-left: 300px;
+    margin-top: 100px;
+    width: 600px;
+}
+
+#part27 {
+	text-align: center;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	width: 600px;
+	padding: 40px;
+    margin-left: 300px;
+    margin-top: 100px;
+    width: 600px;
+}
+
+#page6 {
+	background-image: url("../images/MONTAGNE.jpg");
+	background-size: cover;
+}
+
+#part28 {
+	text-align: center;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	width: 600px;
+	padding: 160px;
+    width: 700px;
+	padding-top: 56px;
+    padding-left: 160px;
+    padding-bottom: 56px;
+}
+
+#part29 {
+	width: 300px;
+	padding-left: 364px;
+}
+
+#part30 {
+	text-align: left;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	width: 600px;
+	padding-left: 56px;
+}
+
+#part31 {
+	width: 320px;
+	padding-left: 500px;
+}
+
+#part32 {
+	width: 540px;
+	text-align: right;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	padding-left: 380px;
+}
+
+#part33 {
+	width: 600px;
+	text-align: left;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	padding-top: 312px;
+	padding-left: 56px;
+}
+
+#part34 {
+	width: 600px;
+	text-align: left;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	padding-top: 100px;
+    padding-bottom: 56px;
+    padding-left: 56px;
+}
+
+#page7 {
+	background-image: url("../images/IMAGE FIN.png");
+	background-size: cover;
+}
+
+#part35 {
+	width: 600px;
+	text-align: center;
+	font-size: 12.5px;
+	line-height: 1.3;
+	color: white;
+	padding-top: 400px;
+    padding-left: 216px;
+}
+
+#part36 {
+	font-family: 'ITC Avant Garde Gothic Pro', sans-serif;
+	color: #fb70bd;
+	font-size: 40px;
+	text-align: left;
+	line-height: 2.3;
+	line-height: 48px;
+	padding-top: 100px;
+	text-align: center;
+}
+
+#part37 {
+	font-family: 'LeMondeLivreStd';
+	color: white;
+	font-size: 16px;
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 800px;
+}
